@@ -1,0 +1,5 @@
+C:\Users\Gayan Denaindra\Dropbox\FYP projects\Ovin\EauctioningSystem\EauctioningEntity\bin\Debug\EauctioningEntity.dll
+C:\Users\Gayan Denaindra\Dropbox\FYP projects\Ovin\EauctioningSystem\EauctioningEntity\bin\Debug\EauctioningEntity.pdb
+C:\Users\Gayan Denaindra\Dropbox\FYP projects\Ovin\EauctioningSystem\EauctioningEntity\obj\Debug\EauctioningEntity.csprojResolveAssemblyReference.cache
+C:\Users\Gayan Denaindra\Dropbox\FYP projects\Ovin\EauctioningSystem\EauctioningEntity\obj\Debug\EauctioningEntity.dll
+C:\Users\Gayan Denaindra\Dropbox\FYP projects\Ovin\EauctioningSystem\EauctioningEntity\obj\Debug\EauctioningEntity.pdb
